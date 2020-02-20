@@ -1,0 +1,21 @@
+{
+  "name": "outbounder-cv",
+  "version": "2.0.0",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outbounder/cv.git"
+  },
+  "author": "Boris Filipov",
+  "bugs": {
+    "url": "https://github.com/outbounder/cv/issues"
+  },
+  "homepage": "https://github.com/outbounder/cv#readme",
+  "description": ""
+}

@@ -1,0 +1,11 @@
+body {
+  margin: 150px;
+}
+#name {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.description .items {
+  margin-left: 20px;
+}
